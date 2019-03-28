@@ -1,0 +1,11 @@
+C:\Users\szymon.przybyszewski\Desktop\nunit-csharp-samples-master\syntax\obj\Debug\AssertSyntax.csprojAssemblyReference.cache
+C:\Users\szymon.przybyszewski\Desktop\nunit-csharp-samples-master\syntax\obj\Debug\AssertSyntax.csproj.CoreCompileInputs.cache
+C:\Users\szymon.przybyszewski\Desktop\nunit-csharp-samples-master\syntax\bin\Debug\Syntax.Tests.dll
+C:\Users\szymon.przybyszewski\Desktop\nunit-csharp-samples-master\syntax\bin\Debug\Syntax.Tests.pdb
+C:\Users\szymon.przybyszewski\Desktop\nunit-csharp-samples-master\syntax\bin\Debug\nunit.framework.dll
+C:\Users\szymon.przybyszewski\Desktop\nunit-csharp-samples-master\syntax\bin\Debug\NUnit.System.Linq.dll
+C:\Users\szymon.przybyszewski\Desktop\nunit-csharp-samples-master\syntax\bin\Debug\nunit.framework.pdb
+C:\Users\szymon.przybyszewski\Desktop\nunit-csharp-samples-master\syntax\bin\Debug\nunit.framework.xml
+C:\Users\szymon.przybyszewski\Desktop\nunit-csharp-samples-master\syntax\obj\Debug\AssertSyntax.csproj.CopyComplete
+C:\Users\szymon.przybyszewski\Desktop\nunit-csharp-samples-master\syntax\obj\Debug\Syntax.Tests.dll
+C:\Users\szymon.przybyszewski\Desktop\nunit-csharp-samples-master\syntax\obj\Debug\Syntax.Tests.pdb
